@@ -15,6 +15,10 @@ more!
 
 ## Usage
 
+### Tutorial
+
+- [Flutter Ethereum Dev Detailed Course](http://xc.hubwiz.com/course/5d0f51ba574541f94050cf4e?affid=github7878)
+
 ### Credentials and Wallets
 In order to send transactions on the Ethereum network, some credentials
 are required. The library supports raw private keys and v3 wallet files.
